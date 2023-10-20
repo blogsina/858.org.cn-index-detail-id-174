@@ -1,0 +1,207 @@
+.section-title { margin-bottom: 20px; }
+
+.section-title h2 { font-size: 28px; }
+
+.lists-inner-view { margin-top: 0; }
+
+.lists-inner-view .section-piclists { padding: 20px 0; }
+
+.inner-banner { padding: 100px 0 80px; }
+
+.inner-banner .banner-text h3 { font-size: 30px; }
+
+.inner-banner .banner-text .crumbs { font-size: 14px; }
+
+.about-inner-view a.read-more { display: block; margin: 0 auto; font-size: 20px; color: #fff; text-align: center; background-color: #4ac8bb; }
+
+.about-inner-view .section-about { padding: 20px 0; }
+
+.about-inner-view .section-about .about-intro { text-align: center; }
+
+.about-inner-view .section-about .about-intro h3 { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 22px; }
+
+.about-inner-view .section-about .about-intro p { line-height: 30px; font-size: 16px; text-align: justify; }
+
+.about-inner-view .section-project { padding: 20px 0; background: url(http://www.858.org.cn:8080/statics/images/about/banner.jpg) no-repeat center/cover; }
+
+.about-inner-view .section-project .project-intro { margin-bottom: 16px; font-size: 20px; color: #333; text-align: center; }
+
+.about-inner-view .section-project .project-intro h3 { line-height: 1.4; font-size: 18px; }
+
+.about-inner-view .section-project .project-intro p { width: 100%; line-height: 28px; margin: 0 auto; margin-top: 20px; font-size: 16px; }
+
+.about-inner-view .section-news { padding: 20px 0; }
+
+.list-9 { margin: 20px 0; }
+
+.list-9 .single-list .title { margin-right: 0; }
+
+.list-9 .single-list .read-more { display: none; }
+
+.list-13 { margin-top: 10px; }
+
+.list-13 li { width: 50%; margin: 10px 0; font-size: 16px; }
+
+.lists-inner-view .section-lovefile { padding: 20px 0; }
+
+.lists { overflow: hidden; }
+
+.lists li { line-height: 1.5; margin: 0 0 10px 0; font-size: 14px; font-weight: 400; text-align: justify; }
+
+.lists li > a { color: #323232; }
+
+.list-15 .single-list { margin: 0 0 10px 0; }
+
+.list-15 .single-list h3 { font-size: 18px; }
+
+.list-15 .single-list p { font-size: 16px; }
+
+.list-15 .single-list .read-more { width: 100px; height: 40px; line-height: 40px; font-size: 16px; }
+
+.list-15 .single-list .right-con { border: 0; }
+
+.detail-inner-view .detail-content { margin-top: 20px; }
+
+.detail-inner-view .detail-content h3 { font-size: 18px; }
+
+.detail-inner-view .detail-content .subtit { font-size: 14px; }
+
+.detail-inner-view .detail-content .content-wrap p { font-size: 14px; }
+
+.detail-inner-view .detail-content .detail-footer .turn-page { font-size: 14px; }
+
+.recommend-lists h2 { padding: 10px 0; font-size: 18px; }
+
+.recommend-lists .single-recommend h3 { font-size: 18px; }
+
+.service-inner-view .service-content .content-wrap { line-height: 1.5; margin: 10px 0 20px; font-size: 14px; }
+
+.service-inner-view .section-stress { padding: 20px 0; }
+
+.service-inner-view .section-sex { padding: 20px 0; }
+
+.service-inner-view .section-serve { padding: 20px 0; }
+
+.service-inner-view .section-serve .serve-tab { text-align: center; }
+
+.service-inner-view .section-serve .serve-tab .active { background-color: #40D1C2; }
+
+.service-inner-view .section-serve .iconfont { display: block; max-width: 140px; max-height: 106px; margin: 0 auto; }
+
+.service-inner-view .section-serve .tab-content { margin-top: 30px; }
+
+.service-inner-view .section-serve .des { line-height: 1.5; font-size: 14px; color: #333; text-align: justify; }
+
+.service-inner-view .section-serve .read-more { display: block; width: 80px; height: 32px; line-height: 32px; margin: 10px auto 0; font-size: 12px; color: #fff; text-align: center; background-color: #4ac8bb; }
+
+.service-inner-view .section-serve .img { display: none; width: 100%; padding-left: 65px; }
+
+.service-inner-view .section-assist { padding: 20px 0; background: url(http://www.858.org.cn:8080/statics/images/service-access/group@3x.png) no-repeat center/100% 100%; }
+
+.service-inner-view .section-assist .content-wrap { width: 90%; }
+
+.service-inner-view .section-assist h3 { font-size: 18px; color: #323232; }
+
+.service-inner-view .section-assist p { margin: 10px 0; font-size: 12px; }
+
+.service-inner-view .section-assist a { width: 80px; font-size: 12px; }
+
+.lists-3 .single-list { margin: 0 10px 20px; }
+
+.lists-3 .single-list h3 { height: 40px; line-height: 40px; font-size: 18px; }
+
+.school-inner-view .inner-banner { background: url(../img/sch-bg.png) no-repeat center/cover; }
+
+.school-inner-view .section-course { padding: 20px 0; }
+
+.school-inner-view .section-topic { padding: 20px 0; background-color: #f5f5f5; }
+
+.school-inner-view .section-news { padding: 20px 0; }
+
+.school-inner-view .section-author { padding: 20px 0; background-color: #f5f5f5; }
+
+.school-inner-view a.read-more { display: block; width: 80px; height: 32px; line-height: 32px; margin: 0 auto; font-size: 12px; color: #fff; text-align: center; background-color: #4ac8bb; }
+
+.list-7 h3 { font-size: 20px; }
+
+.list-7 .single-list { margin: 20px 0; }
+
+.list-8 .single-list { margin: 10px 40px; }
+
+.list-8 .single-list h3 { font-size: 18px; }
+
+.list-10 { margin: 20px 0; }
+
+.list-10 .single-list { margin-bottom: 10px; }
+
+.welfare-inner-view .section-welfare { padding: 20px 0; }
+
+.welfare-inner-view .section-join { padding: 20px 0; }
+
+.welfare-inner-view .section-cooperation { padding: 20px 0; }
+
+.welfare-inner-view .section-cooperation h3 { font-size: 18px; }
+
+.welfare-inner-view .section-cooperation .horizontal-tab { width: 90%; margin: 20px auto; }
+
+.list-11 { margin: 20px 0; }
+
+.list-11 .single-list { padding: 10px; }
+
+.list-11 .single-list h3 { font-size: 18px; }
+
+.list-12 .single-list { margin: 10px 0; }
+
+.list-12 .single-list h3 { margin-top: 10px; font-size: 18px; }
+
+.donate-inner-view .section-demand { padding: 20px 0; }
+
+.donate-inner-view .section-demand a.read-more { display: block; width: 80px; height: 32px; line-height: 32px; margin: 0 auto; font-size: 12px; color: #fff; text-align: center; background-color: #4ac8bb; }
+
+.donate-inner-view .section-love { padding: 20px 0; }
+
+.donate-inner-view .section-love .img { max-width: 60px; min-height: 60px; margin: 0 auto; }
+
+.donate-inner-view .section-love h3 { font-size: 18px; }
+
+.donate-inner-view .section-love p { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 14px; text-align: left; }
+
+.donate-inner-view .section-love a { width: 80px; height: 32px; line-height: 32px; margin: 0 auto 20px; font-size: 14px; color: #4ac8bb; text-align: center; background-color: #fff; }
+
+.donate-inner-view .section-rule { padding: 20px 0; }
+
+.donate-inner-view .section-rule .rule-join-us { width: 100%; }
+
+.donate-inner-view .section-rule .rule-join-us .img { max-width: 60px; min-height: 60px; margin: 0 auto; }
+
+.donate-inner-view .section-rule .rule-join-us h3 { margin: 20px 0; font-size: 18px; }
+
+.donate-inner-view .section-donation { padding: 20px 0; }
+
+.donate-inner-view .section-donation .img { margin-bottom: 20px; }
+
+.section-scope .stress-scope{float:left;width: 100%;}
+
+.section-scope .middle-group-scope{float: left;width: 100%;}
+
+.section-scope .last-group-scope{float: left;width: 100%;}
+
+.section-scope .pressure-scope{float: left;width: 100%;}
+
+.section-scope .sorrow-scope{float: left;width: 100%;}
+
+.section-banner .banner-figure{display: none;}
+
+#banner-notification a{font-size: 12px;}
+
+.section-latest-news,.section-service,.section-scope,.section-welfare,.section-joinus,.section-case,.section-expert,.section-data,.section-partner,.section-media-reports{padding: 20px 0;}
+
+.section-expert .section-title .subtitle{overflow: hidden;text-overflow: ellipsis;white-space: nowrap;font-size: 18px;}
+
+.section-welfare .section-lists-welfare .welfare-img h3{height: 40px;line-height: 40px;font-size: 18px;}
+
+.section-latest-news .link-btn a,.section-case .read-more,.section-expert .read-more{width: 80px;height: 32px;line-height: 32px;font-size: 12px;}
+.table-inner-view .section-table th{font-size: 12px;}
+.table-inner-view .section-table td{font-size: 14px;}
+.lists-inner-view .section-piclists{padding: 20px 0;}
+ 
